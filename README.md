@@ -27,16 +27,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,ts,nodejs,express,react,postgres,git,github,linux,vscode&perline=7" />
 </p>
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ariel04h-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel04h-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ariel04h-dev&theme=tokyonight&hide_border=true" />
-</p>
