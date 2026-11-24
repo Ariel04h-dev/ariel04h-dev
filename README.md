@@ -40,14 +40,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ariel04h-dev&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🐍 Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ariel04h-dev/ariel04h-dev/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Ariel04h-dev/ariel04h-dev/output/github-snake.svg" />
-  </picture>
-</p>
